@@ -5,3 +5,5 @@
 	* js-highlight: js分词以及html生成，语法高亮
 
 more and more
+
+License: MIT
