@@ -9,3 +9,4 @@ var readJsFile = function(path){
 }
 
 readJsFile('./lib/utils.js');
+//readJsFile('./test01.js');
